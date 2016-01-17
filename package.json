@@ -1,0 +1,18 @@
+{ 
+	"name":"server", 
+	"main":"web/index.html",
+	"version":"1.2.3",
+	"kiosk":"true",
+	"description" : "chromecastserver",
+	"dependencies":{
+		"peer-dial":"",
+		"opn":"",
+		"express":""
+	},
+  "window": {
+    "frame": false,
+    "toolbar": false,
+	"fullscreen": true
+  }
+
+}
